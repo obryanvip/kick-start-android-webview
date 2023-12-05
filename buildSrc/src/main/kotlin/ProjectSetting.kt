@@ -17,7 +17,8 @@ object ProjectSetting {
 
     // Change This
     // Sample : com.[yourcompanyname].[yourprojectname]
-    // Sample : com.frogobox.webview
+    //obryanvip editado
+    // Sample : com.obryanvip.webview
     const val PROJECT_APP_ID = "com.github.amirisback.web" // Change With Your Own
 
     const val VERSION_MAJOR = 1
