@@ -1,4 +1,4 @@
-name: Android CI Generated Artifact
+name: Android CI Generated apk
 
 env:
   # The name of the main module repository
